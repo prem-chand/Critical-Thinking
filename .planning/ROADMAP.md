@@ -43,7 +43,13 @@ Seven phases build from vault foundation → curriculum design → content autho
   4. The 4 Thread MOCs (Logic & Reasoning, Probability & Statistics, Scientific Reasoning, Metacognition & Calibration) show Foundation → Application → Synthesis → Teaching arcs across the 12 months
   5. The minimum viable path (Core vs Enrichment) is documented and the emotional arc for Months 10-12 is designed with peak/valley/peak pacing
   6. The Belief Audit (before/after) template exists for Month 01 logging and quarterly revisit
-**Plans**: TBD
+**Plans**: 4 plans
+
+Plans:
+- [ ] 01-01-PLAN.md — Curriculum Blueprint: North Star, 12 monthly outcomes, content matrix + frontmatter schema (CURD-01,02,04,05)
+- [ ] 01-02-PLAN.md — Thread Navigation: 4 Thread MOCs with spiral arcs, 12 monthly MOC stubs (CURD-03,05)
+- [ ] 01-03-PLAN.md — Entry Diagnostic & Belief Audit: 20-question Month 00 quiz + Belief Audit Templater template (CURD-06, EXER-06)
+- [ ] 01-04-PLAN.md — Minimum Viable Path & Emotional Arc: Core/Enrichment guide, emotional arc design spec, Month 10-12 MOC updates (CURD-07,08)
 
 ### Phase 2: Content Authoring — Months 01-03 (MVP)
 **Goal**: The first 3 months of curriculum content exist end-to-end — proving the core learning loop (lesson → exercise → paper application → self-assessment → dashboard tracking) before committing to the full 12 months.
@@ -120,7 +126,7 @@ Seven phases build from vault foundation → curriculum design → content autho
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 0. Vault Foundation & Onboarding Setup | 0/? | Not started | - |
-| 1. Curriculum Design & Thread Architecture | 0/? | Not started | - |
+| 1. Curriculum Design & Thread Architecture | 0/4 | Planned | - |
 | 2. Content Authoring — Months 01-03 (MVP) | 0/? | Not started | - |
 | 3. Vault Hygiene & Months 04-06 Content | 0/? | Not started | - |
 | 4. Content Authoring — Months 07-09 (Deepen) | 0/? | Not started | - |

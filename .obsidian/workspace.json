@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "b0e6d7f413a9f005",
+    "type": "split",
+    "children": [
+      {
+        "id": "1de8bb01b42d6184",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d484a374125e13c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/How to Lie with Statistics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to Lie with Statistics"
+            }
+          },
+          {
+            "id": "759794ffbbca7bae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/The Scout Mindset.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Scout Mindset"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b56daeeb12408991",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cadc0a0ef99a20c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17320da3c3188ec5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8478026dd646d26e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a5da797680c82ff3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d45d4480f5121fae",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4eab8c0bf59b886",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea4e3a541447a558",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "297b12652d214495",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "f7faa9e47d44d38e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4bcd5b93a2cb8ec8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "384bbe0995be9c59",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "759794ffbbca7bae",
+  "lastOpenFiles": [
+    "_curriculum-templates/Belief Audit.md",
+    "_curriculum-templates",
+    "Curriculum/_curriculum-templates/Belief Audit.md",
+    "Curriculum/Month 00/Month 00 Entry Diagnostic.md",
+    "Curriculum/Emotional Arc Guide.md",
+    "Curriculum/Core vs Enrichment Guide.md",
+    "Curriculum/_curriculum-templates",
+    "Curriculum/Month 00",
+    "Curriculum/Month 12/Month 12 MOC.md",
+    "Curriculum/Month 11/Month 11 MOC.md",
+    "Curriculum/Month 10/Month 10 MOC.md",
+    "Curriculum/Month 09/Month 09 MOC.md",
+    "Curriculum/Month 08/Month 08 MOC.md",
+    "Curriculum/Month 07/Month 07 MOC.md",
+    "Curriculum/Month 06/Month 06 MOC.md",
+    "Curriculum/Month 05/Month 05 MOC.md",
+    "Curriculum/Month 04/Month 04 MOC.md",
+    "Curriculum/Month 03/Month 03 MOC.md",
+    "Curriculum/Content Matrix.md",
+    "Curriculum/Month 02/Month 02 MOC.md",
+    "Curriculum/Month 01/Month 01 MOC.md",
+    "Curriculum/Metacognition & Calibration MOC.md",
+    "Curriculum/12-Month Outcomes.md",
+    "Curriculum/Scientific Reasoning MOC.md",
+    "Curriculum/Probability & Statistics MOC.md",
+    "Curriculum/Curriculum Hub.md",
+    "Curriculum/Logic & Reasoning MOC.md",
+    "Curriculum/Month 12",
+    "Curriculum/Month 11",
+    "Curriculum/Month 10",
+    "Curriculum/Month 09",
+    "Curriculum/Month 08",
+    "Curriculum/Month 07",
+    "Curriculum/Month 06",
+    "Books/How to Lie with Statistics.md",
+    "Books/The Scout Mindset.md"
+  ]
+}
