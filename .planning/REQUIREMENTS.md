@@ -192,10 +192,10 @@
 | BETA-06 | Phase 6 | Pending |
 
 **Coverage:**
-- v1 requirements: 65 total
-- Mapped to phases: 65
+- v1 requirements: 63 total
+- Mapped to phases: 63
 - Unmapped: 0 ✓
 
 ---
 *Requirements defined: 2026-06-14*
-*Last updated: 2026-06-14 after initial definition*
+*Last updated: 2026-06-14 after roadmap creation*
