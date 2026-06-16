@@ -7,8 +7,8 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  # Published URL, no protocol. Custom apex domain serves at root (no subpath).
-  baseUrl: probabilize.dev
+  # Published URL, no protocol. Subdomain of probabilize.dev; serves at root.
+  baseUrl: thinking.probabilize.dev
   ignorePatterns:
     - private
     - templates
