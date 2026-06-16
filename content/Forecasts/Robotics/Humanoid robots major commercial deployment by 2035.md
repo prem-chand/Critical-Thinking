@@ -30,18 +30,18 @@ brier_score:
 ## Key Assumptions
 - Battery density continues improving at current rates
 - AI safety regulation doesn't cap deployment
-- Cost per unit drops below $50,000 (currently >$100,000 for prototypes)
+- Cost per unit drops below \$50,000 (currently >\$100,000 for prototypes)
 
 ## Evidence That Would Update Me Upward
 - [ ] A company deploys >1,000 robots in a single commercial facility
-- [ ] Unit cost drops below $30,000
+- [ ] Unit cost drops below \$30,000
 - [ ] Major labor shortages in manufacturing or elder care drive government subsidies
 - [ ] A general-purpose robot passes a standardized "usefulness" benchmark
 
 ## Evidence That Would Update Me Downward
 - [ ] A high-profile safety incident leads to a regulatory freeze
 - [ ] Tesla Optimus or Figure fails to ship commercially by 2028
-- [ ] Cost per unit remains above $80,000 through 2030
+- [ ] Cost per unit remains above \$80,000 through 2030
 - [ ] Public backlash against automation intensifies
 
 ## Base Rate

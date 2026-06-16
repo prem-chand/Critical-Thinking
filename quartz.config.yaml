@@ -7,9 +7,8 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  # Published URL, no protocol. GitHub Pages project site is served from the
-  # /Critical-Thinking/ subpath, so the path is required here. Change if you add a custom domain.
-  baseUrl: prem-chand.github.io/Critical-Thinking
+  # Published URL, no protocol. Custom apex domain serves at root (no subpath).
+  baseUrl: probabilize.dev
   ignorePatterns:
     - private
     - templates

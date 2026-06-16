@@ -8,8 +8,8 @@ tags:
 The nervous system registers contrast rather than absolute magnitude, so judgments are distorted by whatever was presented just before. A figure looks cheap next to a higher one and expensive next to a lower one — regardless of its true value. One of Charlie Munger's 25 causes of human misjudgment.
 
 ## Examples
-- A $1,000 suit feels minor right after agreeing to a $40,000 car
-- "Was $200, now $120" makes the price feel like a win without checking its real worth
+- A \$1,000 suit feels minor right after agreeing to a \$40,000 car
+- "Was \$200, now \$120" makes the price feel like a win without checking its real worth
 - A mediocre option looks strong when shown beside a deliberately worse decoy
 
 ## Why It Happens

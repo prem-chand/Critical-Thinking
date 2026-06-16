@@ -16,7 +16,7 @@ Compounding happens when the returns on an investment (of money, effort, knowled
 - At 1% daily improvement, you're 37× better after a year
 
 ## Examples
-- **Finance:** Investing $10,000 at 8% for 40 years → $217,000
+- **Finance:** Investing \$10,000 at 8% for 40 years → \$217,000
 - **Knowledge:** Each new concept connects to existing ones, accelerating learning
 - **Habits:** 1% better each day → 37× better in a year. 1% worse each day → nearly zero
 - **Trust:** Each kept promise builds on the last; trust compounds
