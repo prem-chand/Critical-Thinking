@@ -49,3 +49,6 @@ A useful way to think about it:
 ### For Scientific and Technical Thinking
 - **[[Books/How to Lie with Statistics\|How to Lie with Statistics]]** — Darrell Huff
 - **[[Books/The Book of Why\|The Book of Why]]** — Judea Pearl
+
+### Moral Philosophy & Ethics
+- **[[Books/Moral Philosophy Reading List\|Moral Philosophy Reading List]]** — a 12-book sequence on ethics and reasoning about values (Levinas, Nietzsche, Parfit, Aristotle, Kant, Mill, Rawls, Scanlon, Ross, Cuneo, Slote, Moore)
