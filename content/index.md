@@ -1,7 +1,10 @@
 ---
+title: Critical Thinking
 tags:
   - moc
   - hub
+aliases:
+  - Critical Thinking
 ---
 
 Critical thinking is one of those subjects that sounds simple ("think carefully"), but becomes surprisingly deep once you study it seriously. At its core, critical thinking is the disciplined process of evaluating claims, arguments, evidence, assumptions, and reasoning before accepting a conclusion.
