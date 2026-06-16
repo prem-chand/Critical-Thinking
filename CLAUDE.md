@@ -30,4 +30,11 @@ Sections (under `content/`): `Biases/`, `Logical Fallacies/`, `Mental Models/` (
 
 ## Publishing
 
-The vault publishes online via Quartz (static-site generator) from the `content/` directory. Anything outside `content/` is not published. The notes are intended to be public — but stay mindful that edits here become a live, indexable website.
+The vault publishes online via **Quartz 5** (static-site generator) from the `content/` directory, deployed to GitHub Pages at **https://thinking.probabilize.dev** on every push to `master`. Anything outside `content/` is not published. The notes are intended to be public — but stay mindful that edits here become a live, indexable website.
+
+**Quartz cannot render Obsidian-only plugins.** This is the easiest way to make content silently break on the live site:
+
+- **Dataview** (` ```dataview ` blocks) and **Meta Bind** (`INPUT[...]`, `VIEW[...]`) do not run — they render as raw code/text. So MOCs must list their children with **static `[[wikilinks]]`**, not Dataview queries. The `_templates/` notes use these dynamic features for the in-Obsidian calibration workflow, which is why `_templates/` is excluded from publishing (`ignorePatterns` in `quartz.config.yaml`).
+- This reinforces the top rule: when you add a claim/forecast/journal entry, add a static wikilink to its section MOC. The dynamic dashboards only work inside Obsidian.
+- The site homepage is `content/index.md` (titled "Critical Thinking", alias `Critical Thinking` so `[[Critical Thinking]]` backlinks resolve). Quartz serves it at `/`; don't rename it.
+- Build/preview locally with `npx quartz build --serve`; plugins are fetched via `npx quartz plugin install` (NOT `npm run install-plugins`, which is broken). Quartz framework files live at the repo root and are committed.
