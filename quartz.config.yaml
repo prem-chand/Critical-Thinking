@@ -7,9 +7,9 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  # TODO: set to your published URL, no protocol (e.g. premchand.github.io/Critical-Thinking
-  # or your custom domain). Used for RSS, sitemap, and OG images. Local preview ignores it.
-  baseUrl: example.com
+  # Published URL, no protocol. GitHub Pages project site is served from the
+  # /Critical-Thinking/ subpath, so the path is required here. Change if you add a custom domain.
+  baseUrl: prem-chand.github.io/Critical-Thinking
   ignorePatterns:
     - private
     - templates
