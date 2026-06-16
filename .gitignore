@@ -5,6 +5,7 @@
 node_modules/
 public/
 .quartz-cache/
+.quartz/
 *.log
 
 # Obsidian per-launch UI state (noise; the rest of .obsidian is versioned)
