@@ -23,4 +23,5 @@ The brain uses the first available number as a reference point. Adjusting from t
 ## Related
 - [[Cognitive Biases]]
 - [[Books/Thinking, Fast and Slow|Thinking, Fast and Slow]]
+- [[Books/Predictably Irrational|Predictably Irrational]]
 - [[Critical Thinking]]

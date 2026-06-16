@@ -1,7 +1,7 @@
 ---
 tags:
   - book
-  - cognitive-biases
+  - cognitive-bias
   - metacognition
   - beginner
 author: David McRaney

@@ -1,7 +1,6 @@
 ---
 tags:
   - moc
-  - book
   - ethics
   - philosophy
 ---

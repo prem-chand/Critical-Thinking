@@ -37,6 +37,7 @@ Motivated reasoning aligns with the soldier mindset. The countermeasures above a
 ## Related
 - [[Cognitive Biases]]
 - [[Books/The Scout Mindset|The Scout Mindset]]
+- [[Books/Rationality|Rationality]]
 - [[Claim Analysis/Alfred Dreyfus Investigation|Alfred Dreyfus Investigation]]
 - [[Denial]]
 - [[Wishful Thinking]]

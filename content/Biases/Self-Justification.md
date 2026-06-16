@@ -26,4 +26,5 @@ Self-justification preserves our self-concept as competent, moral people. It red
 - [[Motivated Reasoning]]
 - [[Rationalization]]
 - [[Books/Mistakes Were Made (But Not by Me)|Mistakes Were Made (But Not by Me)]]
+- [[Books/Why Everyone (Else) Is a Hypocrite|Why Everyone (Else) Is a Hypocrite]]
 - [[Critical Thinking]]

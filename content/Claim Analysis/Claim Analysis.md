@@ -10,28 +10,12 @@ A personal rationality lab. Every time I encounter an interesting claim, I creat
 
 The goal is to track how beliefs change over time — and get better at calibrating confidence.
 
-## Active Claims
-```dataview
-LIST
-FROM #claim
-WHERE confidence != 100 AND confidence != 0
-SORT file.ctime DESC
-```
+## Claims
+- [[Claim Analysis/Alfred Dreyfus Investigation|Alfred Dreyfus Investigation]]
+- [[Claim Analysis/Diffusion models will replace VAEs|Diffusion models will replace VAEs]]
+- [[Claim Analysis/RL Scaling|RL Scaling]]
 
-## Resolved Claims
-```dataview
-LIST
-FROM #claim
-WHERE confidence = 100 OR confidence = 0
-SORT file.ctime DESC
-```
-
-## All Claims
-```dataview
-LIST confidence AS "Confidence", source AS "Source"
-FROM #claim
-SORT confidence DESC
-```
+> Each claim note logs its confidence %, source, supporting and disconfirming evidence, and what would update the belief. In Obsidian these can also be tracked dynamically via the `#claim` tag.
 
 ## Related
 - [[Critical Thinking]]

@@ -20,21 +20,10 @@ Good forecasters are distinguished not by intelligence, but by accurate uncertai
 - [[Forecasts/AI/AI Forecasts|AI]]
 - [[Forecasts/Robotics/Robotics Forecasts|Robotics]]
 
-## Active Forecasts
-```dataview
-LIST confidence AS "Confidence", review_date AS "Next Review"
-FROM #forecast
-WHERE status = "active"
-SORT review_date ASC
-```
+## All Forecasts
+- [[Forecasts/Robotics/Humanoid robots major commercial deployment by 2035|Humanoid robots: major commercial deployment by 2035]] — *Robotics, active*
 
-## Resolved Forecasts
-```dataview
-LIST outcome AS "Outcome", confidence AS "Confidence"
-FROM #forecast
-WHERE status = "resolved"
-SORT file.ctime DESC
-```
+Browse by category above. Each forecast logs an explicit probability, its reasoning, advance update criteria, and a review date.
 
 ## Brier Score Tracking
 A Brier score measures the accuracy of probabilistic predictions:

@@ -17,11 +17,7 @@ A daily practice space for sharpening critical thinking. Use this to:
 The journal is not about being right — it's about getting better at noticing when you might be wrong.
 
 ## Entries
-```dataview
-LIST
-FROM #journal-entry
-SORT file.ctime DESC
-```
+*Journal entries appear here as they're added (each tagged `journal-entry` and linked below).*
 
 ## Prompts
 - What belief did I update today?

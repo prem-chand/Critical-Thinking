@@ -1,7 +1,7 @@
 ---
 tags:
   - book
-  - cognitive-biases
+  - cognitive-bias
   - skepticism
   - intermediate
 author: Thomas Gilovich

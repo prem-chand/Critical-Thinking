@@ -26,4 +26,5 @@ The brain prefers consistency and reduces cognitive load by favoring information
 - [[Wishful Thinking]]
 - [[Overconfidence]]
 - [[Books/The Art of Thinking Clearly|The Art of Thinking Clearly]]
+- [[Books/You Are Not So Smart|You Are Not So Smart]]
 - [[Critical Thinking]]
