@@ -43,6 +43,7 @@ A useful way to think about it:
 - **[[Books/Why People Believe Weird Things\|Why People Believe Weird Things]]** — Michael Shermer
 - **[[Books/Mistakes Were Made (But Not by Me)\|Mistakes Were Made (But Not by Me)]]** — Carol Tavris & Elliot Aronson
 - **[[Books/Why Everyone (Else) Is a Hypocrite\|Why Everyone (Else) Is a Hypocrite]]** — Robert Kurzban
+- **[[Books/Influence\|Influence]]** — Robert B. Cialdini
 
 ### Advanced
 - **[[Books/Superforecasting\|Superforecasting]]** — Philip E. Tetlock

@@ -46,6 +46,7 @@ Munger's catalog of 25 standard causes of human misjudgment — the psychologica
 
 ## Related
 - [[Cognitive Biases]]
+- [[Books/Influence|Influence]] — Cialdini's primary-source treatment of several of these tendencies
 - [[Mental Models/Cognitive Traps in Intelligence Analysis|Cognitive Traps in Intelligence Analysis]]
 - [[Mental Models/Mental Models|Mental Models]]
 - [[Critical Thinking]]
