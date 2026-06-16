@@ -1,0 +1,12 @@
+# OS junk
+.DS_Store
+
+# Quartz / Node toolchain
+node_modules/
+public/
+.quartz-cache/
+*.log
+
+# Obsidian per-launch UI state (noise; the rest of .obsidian is versioned)
+content/.obsidian/workspace.json
+content/.obsidian/workspace-mobile.json
